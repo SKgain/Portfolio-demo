@@ -1,0 +1,36 @@
+.logo-img{
+    width: 150px;
+    height: 30px;
+}
+.span1{
+    color:violet;
+}
+.hero-img{
+
+    height: 600px;
+    width: 750px;
+}
+
+.skill-img{
+    width: 150px;
+    height: 150px;
+}
+
+.container-padding{
+
+    padding-top: 150px;
+}
+.Feedback{
+    border: 1px solid black;
+    border-radius: 5%;
+    padding: 15px;
+    height: 300px !important;
+
+}
+.card-height{
+
+    height: 350px !important;
+}
+a{
+    text-decoration: none;
+}
